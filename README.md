@@ -1,8 +1,6 @@
 2016 CTF Game
 =============
 
-**Note:** This is a work in progress, it will be updated again when the challenge repositories go live.
-
 The following is a list of all of the challenges used for the 2016 CTF along with their description and link for convenience. Each of these challenges contain a README which well tell you how to stand up the challenge and the correct key to allow you to check yourself when you solve it.
 
 <table>
@@ -15,14 +13,14 @@ The following is a list of all of the challenges used for the 2016 CTF along wit
   <tr>
     <td>... Not!</td>
     <td>50</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2016-Crypto-50">2016-Crypto-50</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2016-Text-Only-Challenges#crypto-50">2016-Text-Only-Challenges</a></td>
     <td>The key is not MCA-3CD9E73E <br /><br /><b>Hint:</b> This can be solved using
       the the calculator app available on any os very quickly.</td>
   </tr>
   <tr>
     <td>\0</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2016-Crypto-100">2016-Crypto-100</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2016-Text-Only-Challenges#crypto-100">2016-Text-Only-Challenges</a></td>
     <td>"The hour ended, running eternally south", uttered Lance, "This
       is never good. Kerosene's everywhere, Yikes! It's stupid man." Creating another
       anthropomorphic baseball bat for another creepy, freaky fella. Yippy! Oscar! Umbrellas
@@ -31,7 +29,7 @@ The following is a list of all of the challenges used for the 2016 CTF along wit
   <tr>
     <td>Attack at dawn</td>
     <td>200</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2016-Crypto-200">2016-Crypto-200</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2016-Text-Only-Challenges#crypto-200">2016-Text-Only-Challenges</a></td>
     <td>mvt-7k 5l :coo</td>
   </tr>
   <tr>
@@ -95,7 +93,7 @@ The following is a list of all of the challenges used for the 2016 CTF along wit
   <tr>
     <td>Welcome!</td>
     <td>10</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2016-Grab-Bag-10">2016-Grab-Bag-10</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2016-Text-Only-Challenges#grab-bag-10">2016-Text-Only-Challenges</a></td>
     <td>Knowing the flag format is important! It will help you a lot with this
       challenge. Read the rules and come on back!</td>
   </tr>
@@ -146,7 +144,7 @@ The following is a list of all of the challenges used for the 2016 CTF along wit
   <tr>
     <td>PCAP Examination</td>
     <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2016-Incident-Response-100">2016-Incident-Response-100</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2016-Incident-Response#challenge-1-pcap-examination">2016-Incident-Response</a></td>
     <td><b>Scenario:</b> <br /> 1. One morning before the daily IT team meeting,
       Joseph Adams inadvertently installs malware posing as a software update onto his
       corporate Windows VM.  The malware beacons out to a Linux machine outside the
@@ -168,7 +166,7 @@ The following is a list of all of the challenges used for the 2016 CTF along wit
   <tr>
     <td>Windows Volatile Memory Analysis</td>
     <td>200</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2016-Incident-Response-200">2016-Incident-Response-200</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2016-Incident-Response#challenge-2-windows-volatile-memory-analysis">2016-Incident-Response</a></td>
     <td>See challenge1
       for scenario description. Show
       that you have discovered the attackers persistence mechanism by providing the
@@ -177,7 +175,7 @@ The following is a list of all of the challenges used for the 2016 CTF along wit
   <tr>
     <td>Linux Deadbox Examination</td>
     <td>300</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2016-Incident-Response-300">2016-Incident-Response-300</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2016-Incident-Response#challenge-3-linux-deadbox-examination">2016-Incident-Response</a></td>
     <td>See challenge1
       for scenario description. Prove
       that you can forensically access the machine of interest by providing the sha1sum
@@ -189,7 +187,7 @@ The following is a list of all of the challenges used for the 2016 CTF along wit
   <tr>
     <td>Linux Volatile Memory Analysis</td>
     <td>400</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2016-Incident-Response-400">2016-Incident-Response-400</a></td>
+    <td><a href="https://github.com/mitre-cyber-academy/2016-Incident-Response#challenge-4-linux-volatile-memory-analysis">2016-Incident-Response</a></td>
     <td>See challenge1
       for scenario description. Prove
       that you have successfully recovered the stolen data by providing the sha1sum
